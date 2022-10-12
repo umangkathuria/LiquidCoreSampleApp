@@ -8,7 +8,7 @@
     "bundler": "node node_modules/liquidcore-cli/lib/cli.js bundle"
   },
   "dependencies": {
-    "react-native": "0.56.0",
+    "react-native": "0.70.2",
     "liquidcore-cli": "^0.4.9",
     "babel-preset-env": "^1.7.0",
     "babel-polyfill": "^6.26.0"
